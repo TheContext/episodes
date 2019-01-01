@@ -1,0 +1,17 @@
+id: "https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_4/The.Context.episode.4.mp3"
+number: 4
+title: "Indie Development"
+description: "In this episode we have talked about Indie Development."
+time: "2016-05-01T05:44:07"
+duration: "01:07:44"
+file:
+  url: "https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_4/The.Context.episode.4.mp3"
+  length: 97552116
+people:
+  hosts:
+    - "artem.zinnatullin"
+    - "hannes.dorfmann"
+  guests:
+    - "chris.lacy"
+discussionUrl: "https://github.com/artem-zinnatullin/TheContext-Podcast/issues/36"
+

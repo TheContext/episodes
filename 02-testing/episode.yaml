@@ -1,0 +1,16 @@
+id: "https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_2/The.Context.episode.2.mp3"
+number: 2
+title: "Testing"
+description: "In this episode we have talked about testing in Android Development."
+time: "2016-02-26T06:25:07"
+duration: "01:42:01"
+file:
+  url: "https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_2/The.Context.episode.2.mp3"
+  length: 146938181
+people:
+  hosts:
+    - "artem.zinnatullin"
+  guests:
+    - "mike.evans"
+discussionUrl: "https://github.com/artem-zinnatullin/TheContext-Podcast/issues/17"
+

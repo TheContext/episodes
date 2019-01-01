@@ -1,0 +1,17 @@
+id: "https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_3_Part_2/The.Context.episode.3.Part2.mp3"
+number: 3
+part: 2
+title: "RxJava with its core developer David Karnok"
+description: "In the second part of the episode we continued the discussion about RxJava."
+time: "2016-03-16T20:52:07"
+duration: "00:37:30"
+file:
+  url: "https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_3_Part_2/The.Context.episode.3.Part2.mp3"
+  length: 63658598
+people:
+  hosts:
+    - "artem.zinnatullin"
+  guests:
+    - "david.karnok"
+discussionUrl: "https://github.com/artem-zinnatullin/TheContext-Podcast/issues/25"
+

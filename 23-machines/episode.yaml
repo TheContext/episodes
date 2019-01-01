@@ -1,0 +1,19 @@
+id: "https://artemzin.com/static/thecontext/episodes/The.Context.episode.23.mp3"
+number: 23
+title: "Rise of the Machines (droidcon Berlin 2018)"
+description: "We've collaborated with droidcon Berlin 2018 (June 25) where Hannes was speaking about MVI, and they've recorded panel discussions for us and allowed us to publish them with our commentary."
+time: "2018-09-19T09:30"
+duration: "00:57:10"
+file:
+  url: "https://artemzin.com/static/thecontext/episodes/The.Context.episode.23.mp3"
+  length: 48276037
+people:
+  hosts:
+    - "kevin.mcdonagh"
+  guests:
+    - "silvia.cambie"
+    - "jurgen.fey"
+    - "meghan.kane"
+    - "hoi.lam"
+    - "roman.belter"
+discussionUrl: "https://github.com/artem-zinnatullin/TheContext-Podcast/issues/103"

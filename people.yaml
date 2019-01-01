@@ -1,162 +1,201 @@
-- id: Artem
-  name: Artem Zinnatullin
-  twitter: artemzin
-  github: artem-zinnatullin
-  website: https://artemzin.com
-  email: "email"
+# NOTES
+#
+# Keep IDs as "firstname.lastname".
+# Sort persons based on IDs.
 
-- id: Artur
-  name: Artur Dryomov
-  twitter: arturdryomov 
-  github: ming13
-  website: https://arturdryomov.online
+# Hosts
 
-- id: Hannes
-  name: Hannes Dorfmann
-  twitter: sockeqwe 
-  github: sockeqwe
-  website: http://hannesdorfmann.com
+- id: "artem.zinnatullin"
+  name: "Artem Zinnatullin"
+  email: "ceo@artemzin.com"
+  twitter: "artem_zin"
+  github: "artem-zinnatullin"
+  links:
+    - name: "blog"
+      url: "https://artemzin.com"
 
-- id: MikeEvans
-  name: Mike Evans
-  twitter: m_evans10
-  github: MichaelEvans
-  website: http://michaelevans.org
+- id: "hannes.dorfmann"
+  name: "Hannes Dorfmann"
+  twitter: "sockeqwe"
+  github: "sockeqwe"
+  links:
+    - name: "blog"
+      url: "http://hannesdorfmann.com"
 
-- id: DavidKarnok
-  name: David Karnok
-  twitter: akarnokd
-  github: akarnokd
-  website: http://akarnokd.blogspot.com
+- id: "artur.dryomov"
+  name: "Artur Dryomov"
+  twitter: "arturdryomov"
+  github: "ming13"
+  links:
+    - name: "blog"
+      url: "https://arturdryomov.online"
 
-- id: ChrisLacy
-  name: Chris Lacy
-  twitter: chrismlacy
+# Guests
 
-- id: JoeBirch
-  name: Joe Birch
-  twitter: hitherejoe
-  github: hitherejoe
-  website: https://joebirch.co
+- id: "anita.singh"
+  name: "Anita Singh"
+  twitter: "anitas3791"
 
-- id: FernandoCejas
-  name: Fernando Cejas
-  twitter: fernando_cejas
-  github: android10
-  website: http://fernandocejas.com
+- id: "annyce.davis"
+  name: "Annyce Davis"
+  twitter: "brwngrldev"
 
-- id: FelipeLima
-  name: Felipe Lima
-  twitter: felipecsl
-  github: felipecsl
-  website: https://medium.com/@felipecsl
+- id: "alexey.alexeev"
+  name: "Alexey Alexeev"
+  links:
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/alexeev-alexey-6a83a88/"
 
-- id: PacoEstevez
-  name: Paco Estevez
-  twitter: pacoworks
-  github: pacoworks
-  website: https://www.pacoworks.com
+- id: "alexey.tsvetkov"
+  name: "Alexey Tsvetkov"
+  twitter: "tsvtkv"
 
-- id: AlexeyTsvetkov
-  name: Alexey Tsvetkov
-  twitter: tsvtkv
+- id: "ash.davis"
+  name: "Ash Davis"
 
-- id: DmitryJemerov
-  name: Dmitry Jemerov
-  twitter: intelliyole
+- id: "benoit.quenaudon"
+  name: "Benoît Quenaudon"
+  github: "oldergod"
+  twitter: "oldergod"
+  links:
+    - name: "website"
+      url: "https://benoitquenaudon.com"
 
-- id: LukasOlsen
-  name: Lukas Olsen
+- id: "chris.lacy"
+  name: "Chris Lacy"
+  twitter: "chrismlacy"
 
-- id: ChristianBahl
-  name: Christian Bahl
-  twitter: christian_bahl
+- id: "christian.bahl"
+  name: "Christian Bahl"
+  twitter: "christian_bahl"
 
-- id: EricKuck
-  name: Eric Kuck
-  twitter: eric_kuck
-  github: EricKuck
+- id: "daniela.gausmann"
+  name: "Daniela Gausmann"
+  links:
+    - name: "LinkedIn"
+      url: "https://linkedin.com/in/daniela-gausmann"
 
-- id: DmitrySavchenko
-  name: Dmitry Savchenko
-  github: dsav
+- id: "david.karnok"
+  name: "David Karnok"
+  twitter: "akarnokd"
+  github: "akarnokd"
+  links:
+    - name: "blog"
+      url: "http://akarnokd.blogspot.com"
 
-- id: BenoitQuenaudon
-  name: Benoît Quenaudon
-  twitter: oldergod
-  github: oldergod
-  website: https://benoitquenaudon.com
+- id: "dmitry.jemerov"
+  name: "Dmitry Jemerov"
+  twitter: "intelliyole"
 
-- id: AlexeyAlexeev
-  name: Alexey Alexeev
-  website: https://www.linkedin.com/in/alexeev-alexey-6a83a88/
-  
-- id: JoannesOrgis
-  name: Joannes Orgis
+- id: "dmitry.savchenko"
+  name: "Dmitry Savchenko"
+  github: "dsav"
 
-- id: IvanMorgillo
-  name: Ivan Morgillo
-  github: hamen
-  twitter: hamen
+- id: "egor.andreevich"
+  name: "Egor Andreevich"
+  twitter: "EgorAnd"
+  github: "Egorand"
+  links:
+    - name: "blog"
+      url: "https://blog.egorand.me"
 
-- id: HasanHosgel
-  name: Hasan Hosgel
-  twitter: alosdev
+- id: "eric.kuck"
+  name: "Eric Kuck"
+  twitter: "eric_kuck"
+  github: "EricKuck"
 
-- id: AshDavis
-  name: Ash Davis
+- id: "felipe.lima"
+  name: "Felipe Lima"
+  twitter: "felipecsl"
+  github: "felipecsl"
+  links:
+    - name: "blog"
+      url: "https://medium.com/@felipecsl"
 
-- id: KevinMcDonagh
-  name: Kevin McDonagh
-  twitter: kevinmcdonagh
+- id: "fernando.cejas"
+  name: "Fernando Cejas"
+  twitter: "fernando_cejas"
+  github: "android10"
+  links:
+    - name: "blog"
+      url: "http://fernandocejas.com"
 
-- id: AnnyceDavis
-  name: Annyce Davis
-  twitter: brwngrldev
+- id: "hasan.hosgel"
+  name: "Hasan Hosgel"
+  twitter: "alosdev"
 
-- id: LaraMartin
-  name: Lara Martín
-  twitter: lariki
+- id: "hoi.lam"
+  name: "Hoi Lam"
+  twitter: "hoitab"
 
-- id: VivienDollinger
-  name: Vivien Dollinger
-  website: https://www.linkedin.com/in/vivien-dollinger
+- id: "ivan.morgillo"
+  name: "Ivan Morgillo"
+  twitter: "hamen"
+  github: "hamen"
 
-- id: AnitaSingh
-  name: Anita Singh
-  twitter: anitas3791
+- id: "jesse.wilson"
+  name: "Jesse Wilson"
+  twitter: "jessewilson"
+  github: "swankjesse"
+  links:
+    - name: "blog"
+      url: "https://publicobject.com"
 
-- id: DanielaGausmann
-  name: Daniela Gausmann
-  website: https://de.linkedin.com/in/daniela-gausmann
+- id: "joannes.orgis"
+  name: "Joannes Orgis"
 
-- id: SilviaCambie
-  name: Silvia Cambie
-  twitter: silviacambie
+- id: "joe.birch"
+  name: "Joe Birch"
+  twitter: "hitherejoe"
+  github: "hitherejoe"
+  links:
+    - name: "blog"
+      url: "https://joebirch.co"
 
-- id: JurgenFey
-  name: Jürgen Fey
-  twitter: androidian60
+- id: "jurgen.fey"
+  name: "Jürgen Fey"
+  twitter: "androidian60"
 
-- id: MeghanKane
-  name: Meghan Kane
-  twitter: meghafon
+- id: "kevin.mcdonagh"
+  name: "Kevin McDonagh"
+  twitter: "kevinmcdonagh"
 
-- id: HoiLam
-  name: Hoi Lam
-  twitter: hoitab
+- id: "lara.martin"
+  name: "Lara Martín"
+  twitter: "lariki"
 
-- id: RomanBelter
-  name: Dr. Roman Belter
+- id: "lukas.olsen"
+  name: "Lukas Olsen"
 
-- id: JesseWilson
-  name: Jesse Wilson
-  twitter: jessewilson
-  website: https://publicobject.com
-  github: swankjesse
+- id: "meghan.kane"
+  name: "Meghan Kane"
+  twitter: "meghafon"
 
-- id: EgorAndreevich
-  name: Egor Andreevich
-  twitter: EgorAnd
-  website: https://blog.egorand.me
-  github: Egorand
+- id: "mike.evans"
+  name: "Mike Evans"
+  twitter: "m_evans10"
+  github: "MichaelEvans"
+  links:
+    - name: "blog"
+      url: "http://michaelevans.org"
+
+- id: "paco.estevez"
+  name: "Paco Estevez"
+  twitter: "pacoworks"
+  github: "pacoworks"
+  links:
+    - name: "blog"
+      url: "https://www.pacoworks.com"
+
+- id: "roman.belter"
+  name: "Dr. Roman Belter"
+
+- id: "silvia.cambie"
+  name: "Silvia Cambie"
+  twitter: "silviacambie"
+
+- id: "vivien.dollinger"
+  name: "Vivien Dollinger"
+  links:
+     - name: "LinkedIn"
+       url: https://www.linkedin.com/in/vivien-dollinger

@@ -1,0 +1,16 @@
+id: "https://github.com/artem-zinnatullin/TheContext-Podcast/releases/download/Episode_5/The.Context.episode.5.mp3"
+number: 5
+title: "Android TV "
+description: "In episode 5 we talked to Joe Birch about Android TV."
+time: "2016-07-01T19:06:00"
+duration: "00:49:22"
+file:
+  url: https://artemzin.com/static/thecontext/episodes/The.Context.episode.5.mp3
+  length: 47396669
+people:
+  hosts:
+    - "artem.zinnatullin"
+    - "hannes.dorfmann"
+  guests:
+    - "joe.birch"
+discussionUrl: "https://github.com/artem-zinnatullin/TheContext-Podcast/issues/45"

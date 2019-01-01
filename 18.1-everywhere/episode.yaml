@@ -1,0 +1,17 @@
+id: "https://artemzin.com/static/thecontext/episodes/The.Context.episode.18.part1.mp3"
+number: 18
+part: 1
+title: "Android Everywhere"
+description: "In the first part of episode #18 Artur, Hannes und Artem discuss Android tablets, Chromebooks and Android Wear (Wear OS)."
+time: "2018-05-05T09:30"
+duration: "00:53:49"
+file:
+  url: "https://artemzin.com/static/thecontext/episodes/The.Context.episode.18.part1.mp3"
+  length: 45465440
+people:
+  hosts:
+    - "artem.zinnatullin"
+    - "hannes.dorfmann"
+    - "artur.dryomov"
+discussionUrl: "https://github.com/artem-zinnatullin/TheContext-Podcast/issues/92"
+

@@ -1,0 +1,17 @@
+id: "https://artemzin.com/static/thecontext/episodes/The.Context.episode.20.part2.mp3"
+number: 20
+part: 2
+title: "public final Agile"
+description: "Artem and Hannes continue the discussion with Alexey Alexeev about Agile, Scrum, Kanban and everything related to project management."
+time: "2018-07-01T09:36"
+duration: "00:41:55"
+file:
+  url: "https://artemzin.com/static/thecontext/episodes/The.Context.episode.20.part2.mp3"
+  length: 35472069
+people:
+  hosts:
+    - "artem.zinnatullin"
+    - "hannes.dorfmann"
+  guests:
+    - "alexey.alexeev"
+discussionUrl: "https://github.com/artem-zinnatullin/TheContext-Podcast/issues/97"

@@ -1,0 +1,16 @@
+id: "https://artemzin.com/static/thecontext/episodes/The.Context.episode.12.mp3"
+number: 12
+title: "Instant Apps with Lukas Olsen and Christian Bahl"
+description: "Hannes chatted with his coworkes Lukas and Christian about Instant Apps."
+time: "2017-05-24T09:30"
+duration: "00:31:47"
+file:
+  url: "https://artemzin.com/static/thecontext/episodes/The.Context.episode.12.mp3"
+  length: 30566084
+people:
+  hosts:
+    - "hannes.dorfmann"
+  guests:
+    - "christian.bahl"
+    - "lukas.olsen"
+discussionUrl: "https://github.com/artem-zinnatullin/TheContext-Podcast/issues/71"

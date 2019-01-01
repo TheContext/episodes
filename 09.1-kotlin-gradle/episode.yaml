@@ -1,0 +1,17 @@
+id: "https://artemzin.com/static/thecontext/episodes/The.Context.episode.9.part1.mp3"
+number: 9
+part: 1
+title: "Kotlin Gradle plugin, compilers and build systems with Alexey Tsvetkov"
+description: "In this episode we have talked to Alexey Tsvetkov from Jetbrains about Kotlin Gradle plugin, compilers and build systems."
+time: "2017-04-11T08:30"
+duration: "00:45:42"
+file:
+  url: "https://artemzin.com/static/thecontext/episodes/The.Context.episode.9.part1.mp3"
+  length: 65819851
+people:
+  hosts:
+    - "artem.zinnatullin"
+    - "hannes.dorfmann"
+  guests:
+    - "alexey.tsvetkov"
+discussionUrl: "https://github.com/artem-zinnatullin/TheContext-Podcast/issues/62"

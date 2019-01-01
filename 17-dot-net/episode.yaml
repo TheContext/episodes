@@ -1,0 +1,16 @@
+id: "https://artemzin.com/static/thecontext/episodes/The.Context.episode.17.mp3"
+number: 17
+title: "Switching Gears to C# and .NET"
+description: "Artur chatted with Dmitry Savchenko about C#, .NET and everything in between."
+time: "2018-04-01T09:30"
+duration: "00:57:37"
+file:
+  url: "https://artemzin.com/static/thecontext/episodes/The.Context.episode.17.mp3"
+  length: 48665265
+people:
+  hosts:
+    - "artur.dryomov"
+  guests:
+    - "dmitry.savchenko"
+discussionUrl: "https://github.com/artem-zinnatullin/TheContext-Podcast/issues/90"
+

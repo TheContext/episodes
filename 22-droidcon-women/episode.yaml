@@ -1,0 +1,20 @@
+id: "https://artemzin.com/static/thecontext/episodes/The.Context.episode.22.mp3"
+number: 22
+title: "Women in Tech (droidcon Berlin 2018)"
+description: "We've collaborated with droidcon Berlin 2018 (June 25) where Hannes was speaking about MVI, and they've recorded panel discussions for us and allowed us to publish them with our commentary."
+time: "2018-08-17T09:36"
+duration: "00:51:23"
+file:
+  url: "https://artemzin.com/static/thecontext/episodes/The.Context.episode.22.mp3"
+  length: 43425533
+people:
+  hosts:
+    - "daniela.gausmann"
+  guests:
+    - "annyce.davis"
+    - "lara.martin"
+    - "kevin.mcdonagh"
+    - "vivien.dollinger"
+    - "anita.singh"
+discussionUrl: "https://github.com/artem-zinnatullin/TheContext-Podcast/issues/101"
+

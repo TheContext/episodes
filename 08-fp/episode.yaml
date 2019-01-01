@@ -1,0 +1,17 @@
+id: "https://artemzin.com/static/thecontext/episodes/The.Context.episode.8.mp3"
+number: 8
+title: "Damn Functional Programming with Paco Estevez"
+description: "In this episode we have talked with Paco Estevez about Functional Programming and how he applies Functional Programming in his android apps."
+time: "2017-03-02T14:30"
+duration: "01:08:56"
+file:
+  url: "https://artemzin.com/static/thecontext/episodes/The.Context.episode.8.mp3"
+  length: 66218024
+people:
+  hosts:
+    - "artem.zinnatullin"
+    - "hannes.dorfmann"
+  guests:
+    - "paco.estevez"
+discussionUrl: "https://github.com/artem-zinnatullin/TheContext-Podcast/issues/57"
+

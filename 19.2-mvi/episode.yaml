@@ -1,0 +1,17 @@
+id: "https://artemzin.com/static/thecontext/episodes/The.Context.episode.19.part2.mp3"
+number: 19
+part: 2
+title: "Model-View-Intent with Benoît Quenaudon from Square"
+description: "We discussed the difference between MVP, MVVM and MVI, how to implement MVI, reusable components and how to test MVI based applications."
+time: "2018-06-10T09:35"
+duration: "00:48:37"
+file:
+  url: "https://artemzin.com/static/thecontext/episodes/The.Context.episode.19.part2.mp3"
+  length: 41109583
+people:
+  hosts:
+    - "artur.dryomov"
+    - "hannes.dorfmann"
+  guests:
+    - "benoit.quenaudon"
+discussionUrl: "https://github.com/artem-zinnatullin/TheContext-Podcast/issues/95"

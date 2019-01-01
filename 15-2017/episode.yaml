@@ -1,0 +1,15 @@
+id: "https://artemzin.com/static/thecontext/episodes/The.Context.episode.15.mp3"
+number: 15
+title: "2017 in Retrospective"
+description: "In this episode Artur and Hannes do a retrospective on 2017. They share their personal highlights, favorite talks, disapointments, learnings and much more."
+time: "2018-01-20T09:30"
+duration: "01:15:56"
+file:
+  url: "https://artemzin.com/static/thecontext/episodes/The.Context.episode.15.mp3"
+  length: 63868600
+people:
+  hosts:
+    - "artur.dryomov"
+    - "hannes.dorfmann"
+discussionUrl: "https://github.com/artem-zinnatullin/TheContext-Podcast/issues/83"
+
