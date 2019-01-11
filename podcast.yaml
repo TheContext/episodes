@@ -3,7 +3,7 @@ description: "Talks about Android development and related topics."
 url: "https://github.com/artem-zinnatullin/TheContext-Podcast"
 artworkUrl: "https://raw.githubusercontent.com/artem-zinnatullin/TheContext-Podcast/master/logo.png"
 language: "en"
-explicit: no
+explicit: false
 category: "Technology"
 subcategory: "Software How-To"
 people:
