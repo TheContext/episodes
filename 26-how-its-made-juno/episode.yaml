@@ -1,12 +1,12 @@
 id: "https://artemzin.com/static/thecontext/episodes/The.Context.episode.26.mp3"
 number: 26
 title: "How It’s Made — Juno"
-description: "We continue our How It's Made series: Hannes and Artur are talking about how Juno, the company Artur works in, does product engineering."
+description: "We continue our How It’s Made series: Hannes and Artur are talking about how Juno, the company Artur works in, does product engineering."
 time: "2019-02-11T23:30"
 duration: "01:05:10"
 file:
   url: "https://artemzin.com/static/thecontext/episodes/The.Context.episode.26.mp3"
-  length: 46928119
+  length: 47189210
 people:
   hosts:
     - "artur.dryomov"
