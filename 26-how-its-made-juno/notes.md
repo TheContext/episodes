@@ -1,4 +1,5 @@
 Links:
+
 * [Multi-tiered technical support](https://en.wikipedia.org/wiki/Technical_support#Multi-tiered_technical_support)
 * [Git branching model](https://artemzin.com/blog/git-ftfy-branching-model-continuation-of-git-flow-considered-harmful/)
 * [Rolling release](https://en.wikipedia.org/wiki/Rolling_release)
