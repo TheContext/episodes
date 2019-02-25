@@ -190,6 +190,11 @@
 - id: "roman.belter"
   name: "Dr. Roman Belter"
 
+- id: "sebastian.kaspari"
+  name: "Sebastian Kaspari"
+  twitter: "Anti_Hype"
+  github: "pocmo"
+
 - id: "silvia.cambie"
   name: "Silvia Cambie"
   twitter: "silviacambie"
