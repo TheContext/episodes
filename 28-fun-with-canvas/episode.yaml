@@ -1,0 +1,15 @@
+id: "https://artemzin.com/static/thecontext/episodes/The.Context.episode.28.mp3"
+number: 28
+title: "Fun with Canvas with Rebecca Franks from Over"
+description: "Hannes talked to Rebecca Franks how the Over android app uses canvas to create an interactive editor."
+time: "2019-04-18T10:30"
+duration: "56:35"
+file:
+  url: "https://artemzin.com/static/thecontext/episodes/The.Context.episode.28.mp3"
+  length: 40994714
+people:
+  hosts:
+    - "hannes.dorfmann"
+  guests:
+    - "rebecca.franks"
+discussionUrl: "https://github.com/artem-zinnatullin/TheContext-Podcast/issues/119"
