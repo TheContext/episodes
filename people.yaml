@@ -207,6 +207,11 @@
   name: "Silvia Cambie"
   twitter: "silviacambie"
 
+- id: "sakis.kaliakoudas"
+  name: "Sakis Kaliakoudas"
+  twitter: "skaliakoudas"
+  github: "athkalia"
+
 - id: "vivien.dollinger"
   name: "Vivien Dollinger"
   links:
